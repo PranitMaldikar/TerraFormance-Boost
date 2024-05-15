@@ -1,4 +1,4 @@
 Host 34.236.244.164
     HostName 34.236.244.164
     User ubuntu
-    IdentityFile C:/Users/prati/.ssh/mtckey
+    IdentityFile C:/Users/prani/.ssh/mtckey
